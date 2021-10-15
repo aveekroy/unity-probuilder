@@ -5,5 +5,5 @@
 
 #### Tips and Tricks:
 
-Option + Click - Shape Tool - opens up a additional window while creating a shape
+> Option + Click - Shape Tool - opens up a additional window while creating a shape
 
