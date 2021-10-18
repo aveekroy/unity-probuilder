@@ -7,3 +7,4 @@
 
 > Option + Click - Shape Tool - opens up a additional window while creating a shape
 
+[![]()](https://www.youtube.com/watch?v=hwT8IU_WFUI)
